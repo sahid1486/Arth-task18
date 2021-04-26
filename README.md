@@ -1,6 +1,6 @@
 
 # अर्थ Program Task - 18
-## ARTH - Task 18 👨🏻‍💻
+## ARTH - Task 18 👨💻
 
 - Task Description📄
 
@@ -14,4 +14,4 @@
 
 🔅 - Provide the endpoint/connection string to the WordPress application to make it work. 
 
-** IF you want to create such setup step by step then follow this blog [Integration of Amazon Relational Database Service (RDS) with WordPress on AWS](https://www.linkedin.com/posts/sahid-khan_wordpress-database-work-activity-6792368741423321088-7suT)**
+**IF you want to create such setup step by step then follow this blog [Integration of Amazon Relational Database Service (RDS) with WordPress on AWS](https://www.linkedin.com/posts/sahid-khan_wordpress-database-work-activity-6792368741423321088-7suT)**
